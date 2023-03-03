@@ -2343,6 +2343,7 @@ figcaption {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  margin-top: 2rem;
   -webkit-box-pack: start;
   -webkit-justify-content: flex-start;
   -ms-flex-pack: start;
@@ -2440,6 +2441,13 @@ figcaption {
 
 .image-11 {
   width: 100%;
+}
+
+.above-heading {
+  color: #010202;
+  font-size: 0.8rem;
+  font-weight: 900;
+  text-transform: uppercase;
 }
 
 @media screen and (max-width: 991px) {
