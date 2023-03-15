@@ -2377,6 +2377,7 @@ figcaption {
 
 .list-item {
   font-weight: 500;
+  list-style-type: disc;
 }
 
 .transition-caption {
@@ -2448,6 +2449,21 @@ figcaption {
   font-size: 0.8rem;
   font-weight: 900;
   text-transform: uppercase;
+}
+
+.text-span-11 {
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.text-span-12 {
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.center-paragraph {
+  font-size: 1.2rem;
+  text-align: center;
 }
 
 @media screen and (max-width: 991px) {
